@@ -20,8 +20,6 @@ This example is a regular expression to match a valid email address.
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
 - [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
 - [Character Escapes](#character-escapes)
 
 ## Regex Components
